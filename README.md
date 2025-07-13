@@ -7,8 +7,8 @@ If a direct mapping exists, it links directly to the LeetCode version. Otherwise
 
 Preview
 
-Site -> [InterviewBit Site](https://www.interviewbit.com/problems/majority-element/?study_plan=study-plan-3-months&/)
-![Main](pictures/main.png)
+-Site -> [InterviewBit Site](https://www.interviewbit.com/problems/majority-element/?study_plan=study-plan-3-months&/)
+-![Main](pictures/main.png)
 
 ---
 
