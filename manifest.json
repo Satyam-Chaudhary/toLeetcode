@@ -3,7 +3,7 @@
   "name": "InterviewBit to Leetcode",
   "description": "Adds a button to InterviewBit problems that links to the equivalent LeetCode question",
   "version": "1.0",
-  "permissions": ["scripting"],
+  "permissions": [],
   "host_permissions": [
     "https://www.interviewbit.com/problems/*",
     "https://www.googleapis.com/"
@@ -18,7 +18,7 @@
     "default_icon": {
       "16": "icon16.png"
     },
-    "default_title": "Go to LeetCode"
+    "default_title": "InterviewBit to LeetCode"
   },
   "icons": {
     "16": "icon16.png"

@@ -1,6 +1,3 @@
-
-ENV/
-env/
-.venv/
-.env/
 .env
+content.js
+node_modules/content.js

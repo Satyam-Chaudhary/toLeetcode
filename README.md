@@ -26,14 +26,13 @@ Preview
 ## 🛠️ Installation (Developer Mode)
 
 1. **Clone or download** this repo  
-2. Replace keys in `content.js`:
+2. Create a .env folder and add your api keys
    ```js
    const GOOGLE_API_KEY = "your-api-key";
    const CSE_ID = "your-cse-id";
 
-OR
+## ▶️ How to Run
 
-Create a .env file and inject values using the inject.js script:
-
-GOOGLE_API_KEY=your-google-api-key
-CSE_ID=your-cse-id
+```bash
+npm install
+npm run build
