@@ -3,3 +3,4 @@ ENV/
 env/
 .venv/
 .env/
+.env
