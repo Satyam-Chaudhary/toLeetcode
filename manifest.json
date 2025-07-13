@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "InterviewBit → LeetCode Helper",
+  "description": "Adds a button to InterviewBit problems that links to the equivalent LeetCode question",
+  "version": "1.0",
+  "permissions": ["scripting"],
+  "host_permissions": [
+    "https://www.interviewbit.com/problems/*",
+    "https://www.googleapis.com/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.interviewbit.com/problems/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
